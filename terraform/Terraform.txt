@@ -109,7 +109,7 @@ terraform apply
 	- This will internally run the plan again then with the user confirmation the predicted 
 	  changes will be applied.
 		
-	To apply changes will out user confirmation 
+	To apply changes without user confirmation 
 		terraform apply --auto-approve
 	
 	To run a particular terraform script
